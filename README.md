@@ -1,9 +1,9 @@
-<!-- Orbit Animation -->
+<!-- Snake Orbit Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/marquee.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800" />
 </div>
 
-<br/>
+<br/><br/>
 
 # 🚀 About Me
 
@@ -49,3 +49,4 @@ Feel free to connect with me on **LinkedIn** :)
 </div>
 
 ---
+
