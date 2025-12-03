@@ -1,18 +1,16 @@
-<!-- Animated Header -->
+<!-- Orbit Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=00A8FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%F0%9F%91%8B;3x+Hackathon+Winner+%F0%9F%8F%86;2x+PM+Intern+%F0%9F%9A%80;3x+SWE+Intern+%F0%9F%92%BB;40M%2B+Project+Views+%F0%9F%8C%9F;I+Love+Building+Impactful+Products+%E2%9C%A8" alt="Typing Animation">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/marquee.svg" width="600" />
 </div>
 
 <br/>
 
-<div align="center">
-  <p style="font-size:17px; max-width:700px;">
-    I'm a 3× Hackathon Winner, 2× Product Management Intern, and 3× Software Engineering Intern with <b>40M+ views</b> across my projects and content.  
-    I'm obsessed with building impactful products — tools that genuinely help people — and I'm working toward that dream every single day.  
-    <br/><br/>
-    Feel free to connect with me on <b>LinkedIn</b> :)
-  </p>
-</div>
+# 🚀 About Me
+
+I'm a 3× Hackathon Winner, 2× Product Management Intern, and 3× Software Engineering Intern with **40M+ views** across my projects and content.  
+I'm obsessed with building impactful products — tools that genuinely help people — and I'm working toward that dream every single day.
+
+Feel free to connect with me on **LinkedIn** :)
 
 ---
 
@@ -51,11 +49,3 @@
 </div>
 
 ---
-
-## 🌟 Bonus Animation
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats">
-</div>
-
----
-
