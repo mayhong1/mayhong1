@@ -1,10 +1,3 @@
-<!-- Snake Orbit Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800" />
-</div>
-
-<br/><br/>
-
 # 🚀 About Me
 
 I'm a 3× Hackathon Winner, 2× Product Management Intern, and 3× Software Engineering Intern with **40M+ views** across my projects and content.  
@@ -50,3 +43,7 @@ Feel free to connect with me on **LinkedIn** :)
 
 ---
 
+<!-- Snake Orbit Animation at Bottom -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800" />
+</div>
