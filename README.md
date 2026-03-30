@@ -1,6 +1,6 @@
 # 🚀 About Me
 
-I'm a 3× Hackathon Winner, 2× Product Management Intern, and 3× Software Engineering Intern with **40M+ views** across my projects and content.  
+I'm a 4× Hackathon Winner, 2× Product Management Intern, and 3× Software Engineering Intern with **40M+ views** across my projects and content.  
 I'm obsessed with building impactful products — tools that genuinely help people — and I'm working toward that dream every single day.
 
 Feel free to connect with me on **LinkedIn** :)
